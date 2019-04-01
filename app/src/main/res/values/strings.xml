@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seno e Cosseno</string>
+    <string name="bott">Calcular</string>
+    <string name="sin">Seno</string>
+    <string name="cos">Cosseno</string>
+    <string name="tang">Tangente</string>
+</resources>
